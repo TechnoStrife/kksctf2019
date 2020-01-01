@@ -27,8 +27,11 @@ and the second checkpoint because BFS returns both the starting and the final po
 
 See source: [maze.py](maze.py).
 
-`Vector` is a simple 2d array-like vector which performs math operations
+[`Vector`](vector.py) is a simple 2d array-like vector which performs math operations
 on x and y coordinates independently
+
+
+Solve the maze many times and get the flag:
 
 ```
 kks{A*_41g0ri7hm_|s_600D_3n0U6h!}
